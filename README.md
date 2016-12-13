@@ -1,2 +1,2 @@
 # hello
-a hello world repo for github.com
+a hello world example repo for github.com
